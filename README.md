@@ -2,8 +2,9 @@
 - This is Youssef Dawoud's profile
 - I’m interested in Cryptograohy and Web-deveopment
 - I’m currently learning AI and Machine learning
-- Email: youssef.dawoud@hotmail.com
+- Email: dawoudyoussef23@gmail.com
 - Personal Website: https://deathpancake1.github.io/youssef-portfolio/
+- Leet Code profile: https://leetcode.com/DeathPancake1/
 
 # Bio
 I am a computer engineering student from Egypt, I have a profound love and admiration for this field. It was always my dream to work in tech. I am excited to meet new people and learn as much as I can about computers and computer engineering.

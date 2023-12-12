@@ -1,6 +1,6 @@
 # Youssef Dawoud
 - This is Youssef Dawoud's profile
-- I’m interested in Cryptograohy and Web-deveopment
+- I’m interested in Cybersecurity and Web-deveopment
 - I’m currently learning AI and Machine learning
 - Email: youssef.dawoud@hotmail.com
 - Personal Website: https://deathpancake1.github.io/youssef-portfolio/

@@ -7,7 +7,7 @@
 - Leet Code profile: https://leetcode.com/DeathPancake1/
 
 # Bio
-I am a computer engineering student from Egypt, I have a profound love and admiration for this field. It was always my dream to work in tech. I am excited to meet new people and learn as much as I can about computers and computer engineering.
+I am a Cybersecurity engineering student from Egypt living in Italy Studying at Politecnico di Torino
 
 <!---
 DeathPancake1/DeathPancake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
